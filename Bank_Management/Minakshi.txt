@@ -1,0 +1,7 @@
+Account number:118
+Account name:Minakshi
+Account holder mobile number:garg
+Account holder adhar number:452152
+Account holder gender:f
+Account holder age:16
+Account balance:1523645.0

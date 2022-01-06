@@ -1,0 +1,8 @@
+Account number                :  520
+Account name                  :  kavi
+Account holder mobile number  :  9321565214
+Account holder adhar number   :  526341
+Account holder gender         :  f
+Account holder age            :  52
+Account balance               :  5000.0
+Updated balance 4000.0

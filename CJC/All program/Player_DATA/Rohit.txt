@@ -1,0 +1,6 @@
+Player rank :66
+Player name :Rohit
+Player Address :Karvenagar
+Player team_name :Innovation
+Player team_location :pune
+Player_mobile_number :9955664422

@@ -1,0 +1,6 @@
+Player rank :55
+Player name :Doni
+Player Address :mumbai
+Player team_name :indian
+Player team_location :mumbai
+Player_mobile_number :9657223360

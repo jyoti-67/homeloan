@@ -1,0 +1,7 @@
+Account number:226
+Account name:vijaykumar
+Account holder mobile number:9695949392
+Account holder adhar number:5652545859
+Account holder gender:male
+Account holder age:43
+Account balance:536000.0

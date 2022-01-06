@@ -1,0 +1,7 @@
+Account number:220
+Account name:kalpna
+Account holder mobile number:9965324125
+Account holder adhar number:526341856
+Account holder gender:f
+Account holder age:52
+Account balance:55000.0

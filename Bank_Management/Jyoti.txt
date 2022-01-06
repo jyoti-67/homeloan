@@ -1,0 +1,8 @@
+Account number                :  550
+Account name                  :  Jyoti
+Account holder mobile number  :  9695989794
+Account holder adhar number   :  5413
+Account holder gender         :  f
+Account holder age            :  42
+Account balance               :  525252.0
+Updated balance:530252.0

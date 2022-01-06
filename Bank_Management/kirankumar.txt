@@ -1,0 +1,7 @@
+Account number:225
+Account name:kirankumar
+Account holder mobile number:9898989595
+Account holder adhar number:5454565621
+Account holder gender:m
+Account holder age:42
+Account balance:560000.0

@@ -1,0 +1,8 @@
+Account number                :  510
+Account name                  :  kaveri
+Account holder mobile number  :  9695929391
+Account holder adhar number   :  524163
+Account holder gender         :  f
+Account holder age            :  34
+Account balance               :  50000.0
+Updated balance:51000.0

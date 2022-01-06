@@ -1,0 +1,6 @@
+Player rank :99
+Player name :Virat
+Player Address :Mumbai
+Player team_name :Success
+Player team_location :Nagar
+Player_mobile_number :9633552288

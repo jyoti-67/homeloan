@@ -1,0 +1,6 @@
+Player rank :88
+Player name :Sachin
+Player Address :pune
+Player team_name :maharashtra
+Player team_location :mumbai
+Player_mobile_number :9764541113
